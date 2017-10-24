@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chatcorba" />
+        <module name="chatrmi" />
+        <module name="chatsocket" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chatcommunicationpos" target="1.8" />
+      <module name="chatcorba" target="1.8" />
+      <module name="chatrmi" target="1.6" />
+      <module name="chatsocket" target="1.8" />
+      <module name="clientchat" target="1.5" />
+      <module name="serverchat" target="1.5" />
+      <module name="sharedchat" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

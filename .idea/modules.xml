@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chatcommunicationpos.iml" filepath="$PROJECT_DIR$/chatcommunicationpos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatcorba/chatcorba.iml" filepath="$PROJECT_DIR$/chatcorba/chatcorba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatrmi/chatrmi.iml" filepath="$PROJECT_DIR$/chatrmi/chatrmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatsocket/chatsocket.iml" filepath="$PROJECT_DIR$/chatsocket/chatsocket.iml" />
+    </modules>
+  </component>
+</project>
